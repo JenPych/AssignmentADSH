@@ -1,7 +1,7 @@
 """Write a program that optimizes the delivery routes for multiple destinations. The program should ask the user to
 input the Name of 3 destinations and the distances to each destination from the warehouse in kilometres. Using this
 information, the program should design the route such that the driver visits all destinations based on the distance
-in a descending order( i.e. starting with the longest delivery first) and return to the starting point. The program
+in descending order( i.e. starting with the longest delivery first) and return to the starting point. The program
 should then display the optimized route.
 Note: If 2 destinations have same distance then it must prioritize the destination that has been entered first."""
 
